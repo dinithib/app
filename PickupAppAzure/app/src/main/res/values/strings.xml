@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PickupApp</string>
+    <string name="textview">Milk Data</string>
+    <string name="Temperature">Temperature (Celsius)</string>
+    <string name="volume">Volume (Litre)</string>
+    <string name="pickup">Pickup Event </string>
+    <string name="truck">TruckArrival Event</string>
+    <string name="refresh">Refresh</string>
+</resources>

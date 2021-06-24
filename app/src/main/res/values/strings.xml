@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="title">Glenferrie Station, ca.
+        1983</string>
+    <string name="artist">Green</string>
+    <string name="source">Source: slv.vic.gov.au</string>
+</resources>
